@@ -27,6 +27,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://logos-marcas.com/wp-content/uploads/2020/09/Oracle-Logo.png" width="80" alt="Oracle SQL" title="Oracle SQL"">
 </div>
 
@@ -53,8 +54,9 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub">
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab">
-  <img src="https://skillicons.dev/icons?i=bots" alt="Discord Bots" title="Discord Bots">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase">
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino">
+  <img src="https://skillicons.dev/icons?i=bots" alt="Discord Bots" title="Discord Bots">
 </div>
 
 ## Contacto:
